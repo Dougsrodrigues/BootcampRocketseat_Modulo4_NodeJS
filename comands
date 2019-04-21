@@ -1,0 +1,18 @@
+npm i --save moment = trabalha com datas e comparação 
+
+adonis install @adonisjs/validator = validando os campos c adonis
+adonis make:validator ... criando o validator
+
+adonis make:ehandler = trabalhando com exceções
+
+ adonis install @adonisjs/antl = internacionalização
+
+ docker run --name redis -p 6379:6379 -d redis:alpine = instalando o redis no docker
+
+ adonis install @adonisjs/redis
+
+ npm i --save adonis-kue = gerenciador de fila
+
+ adonis kue:listen = servidor para nosso redis
+
+ @sentry/node == instalando o sentry para ver os erros no modo produção
